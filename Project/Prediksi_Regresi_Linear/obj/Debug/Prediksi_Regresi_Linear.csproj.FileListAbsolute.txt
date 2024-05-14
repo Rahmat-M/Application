@@ -1,0 +1,114 @@
+D:\Application\Prediksi_Regresi_Linear\Prediksi_Regresi_Linear\bin\Debug\Prediksi_Regresi_Linear.exe.config
+D:\Application\Prediksi_Regresi_Linear\Prediksi_Regresi_Linear\bin\Debug\Prediksi_Regresi_Linear.exe
+D:\Application\Prediksi_Regresi_Linear\Prediksi_Regresi_Linear\bin\Debug\Prediksi_Regresi_Linear.pdb
+D:\Application\Prediksi_Regresi_Linear\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.csproj.AssemblyReference.cache
+D:\Application\Prediksi_Regresi_Linear\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.Form1.resources
+D:\Application\Prediksi_Regresi_Linear\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.Properties.Resources.resources
+D:\Application\Prediksi_Regresi_Linear\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.csproj.GenerateResource.cache
+D:\Application\Prediksi_Regresi_Linear\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.csproj.CoreCompileInputs.cache
+D:\Application\Prediksi_Regresi_Linear\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.exe
+D:\Application\Prediksi_Regresi_Linear\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.pdb
+D:\Application\Prediksi_Regresi_LinearV0.2\Prediksi_Regresi_Linear\Prediksi_Regresi_Linear\bin\Debug\Prediksi_Regresi_Linear.exe.config
+D:\Application\Prediksi_Regresi_LinearV0.2\Prediksi_Regresi_Linear\Prediksi_Regresi_Linear\bin\Debug\Prediksi_Regresi_Linear.exe
+D:\Application\Prediksi_Regresi_LinearV0.2\Prediksi_Regresi_Linear\Prediksi_Regresi_Linear\bin\Debug\Prediksi_Regresi_Linear.pdb
+D:\Application\Prediksi_Regresi_LinearV0.2\Prediksi_Regresi_Linear\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.csproj.AssemblyReference.cache
+D:\Application\Prediksi_Regresi_LinearV0.2\Prediksi_Regresi_Linear\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.Form1.resources
+D:\Application\Prediksi_Regresi_LinearV0.2\Prediksi_Regresi_Linear\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.Properties.Resources.resources
+D:\Application\Prediksi_Regresi_LinearV0.2\Prediksi_Regresi_Linear\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.csproj.GenerateResource.cache
+D:\Application\Prediksi_Regresi_LinearV0.2\Prediksi_Regresi_Linear\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.csproj.CoreCompileInputs.cache
+D:\Application\Prediksi_Regresi_LinearV0.2\Prediksi_Regresi_Linear\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.exe
+D:\Application\Prediksi_Regresi_LinearV0.2\Prediksi_Regresi_Linear\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.pdb
+D:\[Temp]\Prediksi_Regresi_Linear2\Prediksi_Regresi_Linear\bin\Debug\Prediksi_Regresi_Linear.exe.config
+D:\[Temp]\Prediksi_Regresi_Linear2\Prediksi_Regresi_Linear\bin\Debug\Prediksi_Regresi_Linear.exe
+D:\[Temp]\Prediksi_Regresi_Linear2\Prediksi_Regresi_Linear\bin\Debug\Prediksi_Regresi_Linear.pdb
+D:\[Temp]\Prediksi_Regresi_Linear2\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.csproj.AssemblyReference.cache
+D:\[Temp]\Prediksi_Regresi_Linear2\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.Form1.resources
+D:\[Temp]\Prediksi_Regresi_Linear2\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.Properties.Resources.resources
+D:\[Temp]\Prediksi_Regresi_Linear2\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.csproj.GenerateResource.cache
+D:\[Temp]\Prediksi_Regresi_Linear2\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.csproj.CoreCompileInputs.cache
+D:\[Temp]\Prediksi_Regresi_Linear2\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.exe
+D:\[Temp]\Prediksi_Regresi_Linear2\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.pdb
+D:\[Temp]\Prediksi_Regresi_Linear2\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.Grafik.resources
+D:\[Temp]\Prediksi_Regresi_Linear2\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.Proses_1.resources
+D:\[Temp]\Prediksi_Regresi_Linear2\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.Proses_2.resources
+D:\[Temp]\Prediksi_Regresi_Linear2\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.proses_3.resources
+D:\Application\Program v0.3 (Designed)\Prediksi_Regresi_Linear\bin\Debug\Prediksi_Regresi_Linear.exe.config
+D:\Application\Program v0.3 (Designed)\Prediksi_Regresi_Linear\bin\Debug\Prediksi_Regresi_Linear.exe
+D:\Application\Program v0.3 (Designed)\Prediksi_Regresi_Linear\bin\Debug\Prediksi_Regresi_Linear.pdb
+D:\Application\Program v0.3 (Designed)\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.csproj.AssemblyReference.cache
+D:\Application\Program v0.3 (Designed)\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.Form1.resources
+D:\Application\Program v0.3 (Designed)\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.Grafik.resources
+D:\Application\Program v0.3 (Designed)\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.Properties.Resources.resources
+D:\Application\Program v0.3 (Designed)\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.Proses_1.resources
+D:\Application\Program v0.3 (Designed)\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.Proses_2.resources
+D:\Application\Program v0.3 (Designed)\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.proses_3.resources
+D:\Application\Program v0.3 (Designed)\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.csproj.GenerateResource.cache
+D:\Application\Program v0.3 (Designed)\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.csproj.CoreCompileInputs.cache
+D:\Application\Program v0.3 (Designed)\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.exe
+D:\Application\Program v0.3 (Designed)\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.pdb
+D:\Application\Program v0.3 (Designed)\Prediksi_Regresi_Linear\bin\Debug\FontAwesome.Sharp.dll
+D:\Application\Program v0.3 (Designed)\Prediksi_Regresi_Linear\obj\Debug\Prediksi.A05A53E7.Up2Date
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\bin\Debug\Prediksi_Regresi_Linear.exe.config
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\bin\Debug\Prediksi_Regresi_Linear.exe
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\bin\Debug\Prediksi_Regresi_Linear.pdb
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.csproj.AssemblyReference.cache
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.Form1.resources
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.Grafik.resources
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.Properties.Resources.resources
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.Proses_1.resources
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.Proses_2.resources
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.proses_3.resources
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.csproj.GenerateResource.cache
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.csproj.CoreCompileInputs.cache
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\obj\Debug\Prediksi.A05A53E7.Up2Date
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.exe
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.pdb
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.Home_1.resources
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.About_1.resources
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\bin\Debug\Newtonsoft.Json.xml
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\bin\Debug\RestSharp.xml
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\bin\Debug\System.Buffers.xml
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\bin\Debug\System.CodeDom.xml
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\bin\Debug\System.Memory.xml
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\bin\Debug\System.Numerics.Vectors.xml
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\bin\Debug\System.Text.Encodings.Web.xml
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\bin\Debug\System.Text.Json.xml
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\bin\Debug\System.ValueTuple.xml
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.csproj.Fody.CopyLocal.cache
+D:\Application\Program v0.4\Program v0.3 (Designed)\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.panelHelp_1.resources
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\bin\Debug\Prediksi_Regresi_Linear.exe.config
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\bin\Debug\Prediksi_Regresi_Linear.exe
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\bin\Debug\Prediksi_Regresi_Linear.pdb
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\bin\Debug\Newtonsoft.Json.xml
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\bin\Debug\RestSharp.xml
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\bin\Debug\System.Buffers.xml
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\bin\Debug\System.CodeDom.xml
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\bin\Debug\System.Memory.xml
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\bin\Debug\System.Numerics.Vectors.xml
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\bin\Debug\System.Text.Encodings.Web.xml
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\bin\Debug\System.Text.Json.xml
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\bin\Debug\System.ValueTuple.xml
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.csproj.AssemblyReference.cache
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.About_1.resources
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.Form1.resources
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.Grafik.resources
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.panelHelp_1.resources
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.Home_1.resources
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.Properties.Resources.resources
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.Proses_1.resources
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.Proses_2.resources
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.proses_3.resources
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.csproj.GenerateResource.cache
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.csproj.CoreCompileInputs.cache
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.csproj.Fody.CopyLocal.cache
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\obj\Debug\Prediksi.A05A53E7.Up2Date
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.exe
+D:\Application\RegresiVision\Project\Prediksi_Regresi_Linear\obj\Debug\Prediksi_Regresi_Linear.pdb
